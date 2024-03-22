@@ -152,6 +152,13 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 
+<img width="956" alt="sh" src="https://github.com/SmritiManikand/contentprovider/assets/113674204/f1e77e1b-d1b1-4359-a7f0-02cedb695964">
+
+
+<img width="959" alt="sh1" src="https://github.com/SmritiManikand/contentprovider/assets/113674204/55ed8149-dc9f-4b0b-83cb-98cb0c574166">
+
+
+<img width="221" alt="sh2" src="https://github.com/SmritiManikand/contentprovider/assets/113674204/38de93b3-495b-4cd0-8b17-7d6370fab4fa">
 
 
 ## RESULT
